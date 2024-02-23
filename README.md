@@ -86,10 +86,6 @@ FIGURE -03 ON
 
 FIGURE -04
 
-
-
-
-
 **PROGRAM** 
 ```
 int pot;
@@ -124,7 +120,7 @@ void loop()
 ```
 
 **
-**Simulation output:** 
+**SIMULATION OUTPUT**
 
 **SERIAL MONITOR**
 
@@ -142,4 +138,5 @@ FIGURE -05
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+**RESULT:** 
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
