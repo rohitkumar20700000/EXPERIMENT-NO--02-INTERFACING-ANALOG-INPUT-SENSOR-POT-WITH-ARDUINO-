@@ -1,10 +1,11 @@
-## INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
-## DATE : 23.02.2024
+## EXP-2- INTERFACING ANALOG INPUT SENSOR POT WITH ARDUINO
+## DATE :04-03-24
 ## NAME : ROHIT KUMAR M																             
 ## ROLLNUMBER :212221220045
+## DEPARTMENT:INFORMATION TECHNOLOGY
 
-
-**AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+**AIM**:  
+To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
 **COMPONENTS REQUIRED:**
@@ -65,27 +66,6 @@ CIRCUIT DIAGRAM
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
 
-**CIRCUIT**
-
-![Screenshot 2024-02-23 161902](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/6cab6ecd-4230-46c1-83e8-ee6365417cff)
-
-
-FIGURE -02 OFF
-
- ![Screenshot 2024-02-23 161840](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/7cc57710-bf42-4fd3-822a-e1e918c2757f)
-
-
-
-FIGURE -03 ON
-
-**SCHEMATIC DIAGRAM**
-
-
-![Rohit kumar M(212221220045)_page-0001](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/1e1881b4-ee1b-4c81-aa12-a2266709053b)
-
-
-FIGURE -04
-
 **PROGRAM** 
 ```
 int pot;
@@ -118,6 +98,28 @@ void loop()
 }
 
 ```
+
+**CIRCUIT**
+
+![Screenshot 2024-02-23 161902](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/6cab6ecd-4230-46c1-83e8-ee6365417cff)
+
+
+FIGURE -02 OFF
+
+ ![Screenshot 2024-02-23 161840](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/7cc57710-bf42-4fd3-822a-e1e918c2757f)
+
+
+
+FIGURE -03 ON
+
+**SCHEMATIC DIAGRAM**
+
+
+![Rohit kumar M(212221220045)_page-0001](https://github.com/rohitkumar20700000/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/130482461/1e1881b4-ee1b-4c81-aa12-a2266709053b)
+
+
+FIGURE -04
+
 
 
 **SIMULATION OUTPUT**
