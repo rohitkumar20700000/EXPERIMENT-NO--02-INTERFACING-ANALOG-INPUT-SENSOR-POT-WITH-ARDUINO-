@@ -7,7 +7,7 @@
 **AIM**:  
 To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
-
+##
 **COMPONENTS REQUIRED:**
 1.	10 KΩPOT
 2.	1 KΩ resistor 
@@ -17,7 +17,7 @@ To interface a Analog  input (angular displacement sensor POT) and scale the val
 6.	LED of choice 
 **
 
-
+##
 **THEORY**: 
 
 **Analog signals:**
@@ -104,6 +104,17 @@ void loop()
 }
 
 ```
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
 
 **CIRCUIT**
 
@@ -117,7 +128,7 @@ FIGURE -02 OFF
 
 
 FIGURE -03 ON
-
+##
 **SCHEMATIC DIAGRAM**
 
 
